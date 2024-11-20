@@ -76,7 +76,3 @@ Aplikacja umożliwia przetwarzanie artykułów tekstowych na kod HTML przy użyc
 
 - Upewnij się, że plik `article.txt` zawiera pełny artykuł w formacie tekstowym, aby OpenAI mogło go przetworzyć na kod HTML.
 - Jeśli chcesz zmienić sposób generowania HTML (np. inne formatowanie, style), edytuj plik `szablon.html`.
-
-## Licencja
-
-Ten projekt jest licencjonowany na warunkach [MIT License](LICENSE).
