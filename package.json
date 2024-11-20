@@ -1,0 +1,16 @@
+{
+  "name": "aitask",
+  "version": "1.0.0",
+  "description": "Aplikacja umożliwia przetwarzanie artykułów tekstowych na kod HTML przy użyciu OpenAI API. Zawiera funkcjonalność generowania kodu HTML na podstawie artykułu, a także tworzenia pliku podglądu HTML w odpowiednim szablonie.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "openai": "^4.73.0"
+  }
+}
